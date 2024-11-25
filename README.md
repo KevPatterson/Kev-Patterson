@@ -1,6 +1,6 @@
 # Kev-Patterson
 <h1 align="center">Hola 👋, Mi nombre es Kevin Patterson</h1>
-<h3 align="center">Soy un apasionado programador de Cuba. # Portafolio de Proyectos de Desarrollo de Software. Este repositorio sirve como portafolio de mis proyectos personales, mostrando mi experiencia y habilidades en el desarrollo de software. Cada proyecto se encuentra en una carpeta separada e incluye su propia documentación.</h3>
+<h3 align="center">Soy un apasionado programador de Cuba. Este repositorio sirve como portafolio de mis proyectos personales, mostrando mi experiencia y habilidades en el desarrollo de software. Cada proyecto se encuentra en una carpeta separada e incluye su propia documentación.</h3>
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
