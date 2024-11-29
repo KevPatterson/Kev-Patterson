@@ -57,6 +57,10 @@ Kevin Patterson</a></h1>
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=KevPatterson&repo=Compendido-de-Proyectos-de-AC&theme=tokyonight" alt="Compendio de Proyectos de Arquitectura de Computadoras" />
 </a>
 
+<a href="https://github.com/KevPatterson/Compendido-de-Proyectos-de-C-.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KevPatterson&repo=Compendido-de-Proyectos-de-C-&theme=tokyonight" alt="Compendio de Proyectos de C++" />
+</a>
+
 <!-- Ejemplos -->
   <!---<a href="#">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Ahmed-Hossam&theme=tokyonight" alt="GitHub Stats" />
