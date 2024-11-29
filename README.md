@@ -1,10 +1,49 @@
-# Kev-Patterson
-<h1 align="center">Hola 👋, Mi nombre es Kevin Patterson</h1>
-<h3 align="center">Soy un apasionado programador de Cuba. Este repositorio sirve como portafolio de mis proyectos personales, mostrando mi experiencia y habilidades en el desarrollo de software. Cada proyecto se encuentra en una carpeta separada e incluye su propia documentación.</h3>
+<h1 align="center">Hola 👋, mi nombre es <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
+Kevin Patterson</a></h1>
+<h3 align="center">Soy un estudiante de Ciberseguridad de la Universidad de Ciencias Informáticas en Cuba &#127470;&#127475</h3>
 
-<h3 align="left">Conéctate conmigo:</h3>
-<p align="left">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
+
+<p align="left"> <a href="https://twitter.com/100rabhcsmc" target="blank"><img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge" alt="100rabhcsmc" /></a> </p>
+
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
+- 🔭 Actualmente estoy aprendiendo Desarrollo Web y trabajando en algunos proyectos personales y escolares</a>
+
+- 🌱 Actualmente estoy trabajando en un proyecto backend con DJango.
+
+- 🤝  Estoy disponible para trabajar como freelancer.
+
+- 📝 He trabajado en proyectos de Bases de Datos.
+
+- 💬 Pueden preguntarme sobre **PostgreSQL**
+
+- 📫 Contacta conmigo **kevinpatterson618@gmail.com**
+
+- 📄 Aquí te dejo mi CV <a href="#"</a>
+<br/>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+
+<p align="center">
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/KevPatterson">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/keyp03">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+      </div>
+
 </p>
 
-<h3 align= "left">Idiomas y herramientas:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https ://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" altura="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" ancho="40" alto="40"/> </a> <a href="https://www. w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg " alt="css3" ancho="40" alto="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" ancho="40" alto="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/es-ES/ docs/Web/JavaScript" destino="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" ancho="40" alto="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" ancho="40" alto="40"/> </a> </p>
+### Algunos de mis Proyectos
+
+<!-- Project-LIST:START -->
+
+- 
+- 
+- 
+<!-- Project-LIST:END -->
+
+---
