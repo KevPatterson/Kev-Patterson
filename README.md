@@ -44,9 +44,9 @@ Kevin Patterson</a></h1>
 <div>
   <p align="center">
 	  <!-- Proyecto Web Frontend: Gestión de Recetas de Cocina -->
-<a href="https://github.com/KevPatterson/Proyecto-Web-Frontend-Gesti-n-de-Recetas-de-Comida">
-    <img src="https://github.com/KevPatterson/Proyecto-Web-Frontend-Gesti-n-de-Recetas-de-Comida.git&theme=tokyonight" alt="Proyecto Frontend de Gestión de Recetas de Comida" />
-</a>
+            <a href="https://github.com/KevPatterson/Proyecto-Web-Frontend-Gesti-n-de-Recetas-de-Comida">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=KevPatterson&repo=Proyecto-Web-Frontend-Gesti-n-de-Recetas-de-Comida&theme=tokyonight&border_radius=10" alt="Proyecto Frontend de Gestión de Recetas de Comida" />
+            </a>
 	  <!-- Proyecto: Base de Datos -->
 <a href="https://github.com/KevPatterson/Proyecto-Base-de-Datos">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=KevPatterson&repo=Proyecto-Base-de-Datos&theme=tokyonight" alt="Proyecto Base de Datos" />
