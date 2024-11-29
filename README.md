@@ -92,6 +92,12 @@ Kevin Patterson</a></h1>
     <img src="https://skillicons.dev/icons?i=bootstrap,css,cpp,django,py,postgres,github,html,js,jquery,kali,react,angular,vscode&perline=14" />
   </a>
 </p>
+<!--Lenguajes Mas Usados en mis Proyectos-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Lenguajes más usados en mis proyectos 💻</h2></summary>
+  </ul>
+</div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevPatterson&layout=compact&theme=tokyonight)
 
