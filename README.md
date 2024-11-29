@@ -18,8 +18,8 @@ Kevin Patterson</a></h1>
 
 - 📫 Contacta conmigo **kevinpatterson618@gmail.com**
 
-- 📄 Aquí te dejo mi CV <a href="#"</a>
-<br/>
+<!-- - 📄 Aquí te dejo mi CV <a href="#" >
+<br/>-->
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Contacta conmigo 🤝 </h3>
 
