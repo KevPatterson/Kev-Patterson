@@ -43,42 +43,31 @@ Kevin Patterson</a></h1>
 	
 <div>
   <p align="center">
+	  <!-- Proyecto Web Frontend: Gestión de Recetas de Cocina -->
 <a href="https://github.com/KevPatterson/Proyecto-Web-Frontend-Gesti-n-de-Recetas-de-Comida">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=KevPatterson&repo=Proyecto-Web-Frontend-Gesti-n-de-Recetas-de-Comida&theme=tokyonight" alt="Proyecto Frontend de Gestión de Recetas de Comida" />
 </a>
+	  <!-- Proyecto: Base de Datos -->
+<a href="https://github.com/KevPatterson/Proyecto-Base-de-Datos">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KevPatterson&repo=Proyecto-Base-de-Datos&theme=tokyonight" alt="Proyecto Base de Datos" />
+</a>
+
+<!-- Proyecto: Compendio de Proyectos de AC -->
+<a href="https://github.com/KevPatterson/Compendido-de-Proyectos-de-AC">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KevPatterson&repo=Compendido-de-Proyectos-de-AC&theme=tokyonight" alt="Compendio de Proyectos de Arquitectura de Computadoras" />
+</a>
+
+<!-- Ejemplos -->
   <!---<a href="#">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Ahmed-Hossam&theme=tokyonight" alt="GitHub Stats" />
     	</a>
     	 <a href="#">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Strees_Testing&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-    	<a href="#">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=CP-Templates&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-    	<a href="#">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Codeforces-Polygon-Template&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="#">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Some-Linux-Commands&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="#">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Shorten-Link&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="#">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=7oSkaaa&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="#">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Competitive-Programming-Session-Content&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<<a href="#">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=VS-Code-for-CP&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="#">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Sorting-Algorithms&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
+    	</a> -->
   </p>
 </div>
-</details> -->
+</details> 
 	
 </br></br>
 	
