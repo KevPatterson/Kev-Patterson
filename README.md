@@ -93,6 +93,9 @@ Kevin Patterson</a></h1>
   </a>
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevPatterson&layout=compact&theme=tokyonight)
+
+
 ## 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
