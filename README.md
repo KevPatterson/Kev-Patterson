@@ -21,7 +21,7 @@ Kevin Patterson</a></h1>
 - 📄 Aquí te dejo mi CV <a href="#"</a>
 <br/>
 
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Contacta conmigo 🤝 </h3>
 
 <p align="center">
 
@@ -90,7 +90,7 @@ Kevin Patterson</a></h1>
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Tecnologías que conozco 👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
