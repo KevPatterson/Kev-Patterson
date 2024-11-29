@@ -43,9 +43,9 @@ Kevin Patterson</a></h1>
 	
 <div>
   <p align="center">
-	<a href="https://github.com/KevPatterson/Proyecto-Web-Frontend-Gesti-n-de-Recetas-de-Comida.git">
-   	 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=KevPatterson&repo=Proyecto-Web-Frontend-Gesti-n-de-Recetas-de-Comida&theme=tokyonight" alt="Proyecto Frontend de Gestón de Recetas de Comida" />
-	</a>
+<a href="https://github.com/KevPatterson/Proyecto-Web-Frontend-Gesti-n-de-Recetas-de-Comida">
+    <img src="https://img.shields.io/badge/HTML%20%2F%20CSS%20%2F%20JS-Frontend-blue?style=for-the-badge" alt="Proyecto Frontend de Gestión de Recetas de Comida" />
+</a>
 	<a href="#">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Ahmed-Hossam&theme=tokyonight" alt="GitHub Stats" />
     	</a>
