@@ -43,8 +43,8 @@ Kevin Patterson</a></h1>
 	
 <div>
   <p align="center">
-	<a href="#">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/KevPatterson/Proyecto-Web-Frontend-Gesti-n-de-Recetas-de-Comida.git">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="Proyecto Web Frontend: Gestion de Recetas de Comida" />
     	</a>
 	<a href="#">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Ahmed-Hossam&theme=tokyonight" alt="GitHub Stats" />
