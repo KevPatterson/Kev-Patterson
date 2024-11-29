@@ -2,8 +2,6 @@
 Kevin Patterson</a></h1>
 <h3 align="center">Soy un estudiante de Ciberseguridad de la Universidad de Ciencias Informáticas en Cuba </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=KevPattersonc&label=Profile%20views&color=0e75b6&style=flat" alt="KevPatterson" /> </p>
-
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
