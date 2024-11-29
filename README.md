@@ -5,6 +5,7 @@ Kevin Patterson</a></h1>
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
+</br></br>
 
 - 🔭 Actualmente estoy aprendiendo Desarrollo Web y trabajando en algunos proyectos personales y escolares</a>
 
@@ -38,10 +39,6 @@ Kevin Patterson</a></h1>
 <!--- stats & Trophy (start) -->
  
 <details><summary><h3>💻 Algunos de mis Proyectos</h3></summary>
-
-----
-	
-<details><summary><h3> :open_file_folder: Mis Repositorios </h3></summary>
 
 ----
 	
@@ -83,7 +80,7 @@ Kevin Patterson</a></h1>
   </p>
 </div>
 </details>
-
+	
 </br></br>
 	
 
