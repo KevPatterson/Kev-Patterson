@@ -6,7 +6,9 @@ Kevin Patterson</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 Actualmente estoy aprendiendo Desarrollo Web y trabajando en algunos proyectos personales y escolares</a>
+- Me encuentro actualmente cursando el 3er año de la carrera de Ingeniería en Ciberseguridad.
+
+- 🔭 Actualmente estoy aprendiendo Desarrollo Web y trabajando en algunos proyectos personales y escolares.
 
 - 🌱 Actualmente estoy trabajando en un proyecto backend con DJango.
 
