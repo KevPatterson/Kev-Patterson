@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, mi nombre es <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Kevin Patterson</a></h1>
-<h3 align="center">Soy un estudiante de Ciberseguridad de la Universidad de Ciencias Informáticas en Cuba </h3></br></br>
+<h3 align="">Soy un estudiante de Ingeniería en Ciberseguridad de la Universidad de Ciencias Informáticas en Cuba </h3></br></br>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
