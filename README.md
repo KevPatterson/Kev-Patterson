@@ -18,7 +18,8 @@ Kevin Patterson</a></h1>
 
 - 💬 Pueden preguntarme sobre **PostgreSQL**
 
-- 📫 Contacta conmigo **kevinpatterson618@gmail.com**
+- 📫 Contacta conmigo •Correo Electrónico: **kevinpatterson618@gmail.com**
+Correo Estudiantil: kevinf@estudiantes.uci.cu
 
 <!-- - 📄 Aquí te dejo mi CV <a href="#" >
 <br/>-->
