@@ -48,10 +48,15 @@ Kevin Patterson</a></h1>
             <a href="https://github.com/KevPatterson/CocinaConNosotros">
                 <img src="https://github-readme-stats.vercel.app/api/pin/?username=KevPatterson&repo=CocinaConNosotros&theme=tokyonight&border_radius=10" alt="Proyecto Backend de Gestión de Recetas de Comida" />
             </a>
+	  	  	  <!-- Proyecto React: Control de Gastos -->
+            <a href="https://github.com/KevPatterson/https://github.com/KevPatterson/Control-de-Gastos-en-React">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=KevPatterson&repo=https://github.com/KevPatterson/Control-de-Gastos-en-React&theme=tokyonight&border_radius=10" alt="Proyecto Frontend de Control de Gastos en React" />
+            </a>
 	  	  	  <!-- Proyecto React: Seguimiento de Pacientes de Veterinaria -->
             <a href="https://github.com/KevPatterson/Proyecto-de-Seguimiento-de-Pacientes-Veterinaria">
                 <img src="https://github-readme-stats.vercel.app/api/pin/?username=KevPatterson&repo=Proyecto-de-Seguimiento-de-Pacientes-Veterinaria&theme=tokyonight&border_radius=10" alt="Proyecto Frontend de Seguimiento de Pacientes de Veterinaria" />
             </a>
+   https://github.com/KevPatterson/Control-de-Gastos-en-React
 	  <!-- Proyecto Web Frontend: Gestión de Recetas de Comida -->
             <a href="https://github.com/KevPatterson/Proyecto-Web-Frontend-Gesti-n-de-Recetas-de-Comida">
                 <img src="https://github-readme-stats.vercel.app/api/pin/?username=KevPatterson&repo=Proyecto-Web-Frontend-Gesti-n-de-Recetas-de-Comida&theme=tokyonight&border_radius=10" alt="Proyecto Frontend de Gestión de Recetas de Comida" />
