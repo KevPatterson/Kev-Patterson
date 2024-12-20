@@ -49,7 +49,7 @@ Kevin Patterson</a></h1>
                 <img src="https://github-readme-stats.vercel.app/api/pin/?username=KevPatterson&repo=CocinaConNosotros&theme=tokyonight&border_radius=10" alt="Proyecto Backend de Gestión de Recetas de Comida" />
             </a>
 	  	  	  <!-- Proyecto React: Control de Gastos -->
-            <a href="https://github.com/KevPatterson/https://github.com/KevPatterson/Control-de-Gastos-en-React">
+            <a href="https://github.com/KevPatterson/Control-de-Gastos-en-React">
                 <img src="https://github-readme-stats.vercel.app/api/pin/?username=KevPatterson&repo=https://github.com/KevPatterson/Control-de-Gastos-en-React&theme=tokyonight&border_radius=10" alt="Proyecto Frontend de Control de Gastos en React" />
             </a>
 	  	  	  <!-- Proyecto React: Seguimiento de Pacientes de Veterinaria -->
