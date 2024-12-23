@@ -48,6 +48,9 @@ Kevin Patterson</a></h1>
             <a href="https://github.com/KevPatterson/CocinaConNosotros">
                 <img src="https://github-readme-stats.vercel.app/api/pin/?username=KevPatterson&repo=CocinaConNosotros&theme=tokyonight&border_radius=10" alt="Proyecto Backend de Gestión de Recetas de Comida" />
             </a>
+	  	  	  	  <!-- Proyecto React: CRM -->
+            <a href="https://github.com/KevPatterson/CRM-en-React">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=KevPatterson&repo=CRM-en-React&theme=tokyonight&border_radius=10" alt="Proyecto Frontend CRM en React" />
 	  	  	  <!-- Proyecto React: Seguimiento de Pacientes de Veterinaria -->
             <a href="https://github.com/KevPatterson/Proyecto-de-Seguimiento-de-Pacientes-Veterinaria">
                 <img src="https://github-readme-stats.vercel.app/api/pin/?username=KevPatterson&repo=Proyecto-de-Seguimiento-de-Pacientes-Veterinaria&theme=tokyonight&border_radius=10" alt="Proyecto Frontend de Seguimiento de Pacientes de Veterinaria" />
