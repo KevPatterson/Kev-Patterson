@@ -48,17 +48,28 @@ Kevin Patterson</a></h1>
             <a href="https://github.com/KevPatterson/CocinaConNosotros">
                 <img src="https://github-readme-stats.vercel.app/api/pin/?username=KevPatterson&repo=CocinaConNosotros&theme=tokyonight&border_radius=10" alt="Proyecto Backend de Gestión de Recetas de Comida" />
             </a>
+	  <!-- Proyectos REACT -->
 	  	  	  	  <!-- Proyecto React: CRM -->
             <a href="https://github.com/KevPatterson/CRM-en-React">
                 <img src="https://github-readme-stats.vercel.app/api/pin/?username=KevPatterson&repo=CRM-en-React&theme=tokyonight&border_radius=10" alt="Proyecto Frontend CRM en React" />
+	   </a>
 	  	  	  <!-- Proyecto React: Seguimiento de Pacientes de Veterinaria -->
             <a href="https://github.com/KevPatterson/Proyecto-de-Seguimiento-de-Pacientes-Veterinaria">
                 <img src="https://github-readme-stats.vercel.app/api/pin/?username=KevPatterson&repo=Proyecto-de-Seguimiento-de-Pacientes-Veterinaria&theme=tokyonight&border_radius=10" alt="Proyecto Frontend de Seguimiento de Pacientes de Veterinaria" />
             </a>
-	    	  <!-- Proyecto Web Backend: Gestión de Recetas de Comida -->
+	  	  	  	  	  <!-- Proyecto React: Cotizador -->
+            <a href="https://github.com/KevPatterson/Cotizador-de-Seguro-de-Automovil-en-React">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=KevPatterson&repo=Cotizador-de-Seguro-de-Automovil-en-React&theme=tokyonight&border_radius=10" alt="Proyecto Frontend Cotizador de Seguro de Automóvil en React" />
+	   </a>
+	    <!-- Proyecto React: Cotizador de Criptos -->
+            <a href="https://github.com/KevPatterson/Cotizador-de-Criptomonedas-en-React">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=KevPatterson&repo=Cotizador-de-Criptomonedas-en-React&theme=tokyonight&border_radius=10" alt="Proyecto Frontend Cotizador de Criptomonedas en React" />
+	   </a>
+	    	  <!-- Proyecto Web Backend: Control de Gastos en React -->
             <a href="https://github.com/KevPatterson/Control-de-Gastos-en-React">
                 <img src="https://github-readme-stats.vercel.app/api/pin/?username=KevPatterson&repo=Control-de-Gastos-en-React&theme=tokyonight&border_radius=10" alt="Proyecto Frontend de Control de Gastos en React" />
             </a>
+	  <!-- Otros -->
 	  <!-- Proyecto Web Frontend: Gestión de Recetas de Comida -->
             <a href="https://github.com/KevPatterson/Proyecto-Web-Frontend-Gesti-n-de-Recetas-de-Comida">
                 <img src="https://github-readme-stats.vercel.app/api/pin/?username=KevPatterson&repo=Proyecto-Web-Frontend-Gesti-n-de-Recetas-de-Comida&theme=tokyonight&border_radius=10" alt="Proyecto Frontend de Gestión de Recetas de Comida" />
