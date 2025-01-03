@@ -10,13 +10,13 @@ Kevin Patterson</a></h1>
 
 - 🔭 Actualmente estoy aprendiendo Desarrollo Web y trabajando en algunos proyectos personales y escolares.
 
-- 🌱 Actualmente estoy trabajando en un proyecto backend con DJango.
+- 🌱 Actualmente estoy trabajando en un proyecto backend con Django.
 
 - 🤝  Estoy disponible para trabajar como freelancer.
 
-- 📝 He trabajado en proyectos de Bases de Datos.
+- 📝 He trabajado en proyectos web frontend de React y proyectos backend de Django.
 
-- 💬 Pueden preguntarme sobre **PostgreSQL**
+- 💬 Pueden preguntarme sobre **PostgreSQL**, **React** y **Django**.
 
 - 📫 Contacta conmigo<br>
 • Correo Electrónico: **kevinpatterson618@gmail.com**<br>
